@@ -6,7 +6,7 @@
   <link href="http://xiaolan35.github.io/atom.xml" rel="self"/>
   
   <link href="http://xiaolan35.github.io/"/>
-  <updated>2021-04-07T01:01:24.095Z</updated>
+  <updated>2021-04-09T02:14:24.405Z</updated>
   <id>http://xiaolan35.github.io/</id>
   
   <author>
@@ -17,18 +17,211 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://xiaolan35.github.io/2021/04/08/hello-world/"/>
-    <id>http://xiaolan35.github.io/2021/04/08/hello-world/</id>
-    <published>2021-04-08T09:25:04.151Z</published>
-    <updated>2021-04-07T01:01:24.095Z</updated>
+    <title>二分法思路</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/er-fen-fa-si-lu/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/er-fen-fa-si-lu/</id>
+    <published>2021-04-09T02:14:14.150Z</published>
+    <updated>2021-04-09T02:14:24.405Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;二分法思路&quot;&gt;&lt;a href=&quot;#二分法思路&quot; class=&quot;headerlink&quot; title=&quot;二分法思路&quot;&gt;&lt;/a&gt;二分法思路&lt;/h3&gt;&lt;p&gt;有一个无序不重复的装满数字的列表，例如：&lt;/p&gt;
+&lt;pre class=&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云短信验证码工具类</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/a-li-yun-duan-xin-yan-zheng-ma-gong-ju-lei/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/a-li-yun-duan-xin-yan-zheng-ma-gong-ju-lei/</id>
+    <published>2021-04-09T02:13:51.484Z</published>
+    <updated>2021-04-09T02:14:00.606Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;阿里云短信验证码工具类&quot;&gt;&lt;a href=&quot;#阿里云短信验证码工具类&quot; class=&quot;headerlink&quot; title=&quot;阿里云短信验证码工具类&quot;&gt;&lt;/a&gt;阿里云短信验证码工具类&lt;/h4&gt;&lt;pre class=&quot; language-java&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>liunx虚拟机安装</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/linux/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/linux/</id>
+    <published>2021-04-09T02:13:03.950Z</published>
+    <updated>2021-04-09T02:13:32.719Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Linux&quot;&gt;&lt;a href=&quot;#Linux&quot; class=&quot;headerlink&quot; title=&quot;Linux&quot;&gt;&lt;/a&gt;Linux&lt;/h1&gt;&lt;h2 id=&quot;1-Linux的引言&quot;&gt;&lt;a href=&quot;#1-Linux的引言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql索引</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/mysql-suo-yin/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/mysql-suo-yin/</id>
+    <published>2021-04-09T02:12:07.976Z</published>
+    <updated>2021-04-09T02:12:29.054Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;MySql-索引&quot;&gt;&lt;a href=&quot;#MySql-索引&quot; class=&quot;headerlink&quot; title=&quot;MySql 索引&quot;&gt;&lt;/a&gt;MySql 索引&lt;/h2&gt;&lt;h4 id=&quot;什么是索引-index&quot;&gt;&lt;a href=&quot;#什么是索引-index&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>seo</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/seo-bi-ji/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/seo-bi-ji/</id>
+    <published>2021-04-09T02:04:01.230Z</published>
+    <updated>2021-04-09T02:07:23.894Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;网站打开速度&lt;br&gt;域名不易过长&lt;br&gt;网站爬虫越多越容易收录&lt;br&gt;     网站用户体验&lt;br&gt;     页面链接至少20-30（增加蜘蛛留存率）&lt;br&gt;查看百度爬虫网络日志&lt;br&gt;提高收录&lt;br&gt;       820 340&lt;br&gt;排名&lt;br&gt;    点击率&lt;br&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>http协议</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/http-xie-yi/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/http-xie-yi/</id>
+    <published>2021-04-09T02:04:00.949Z</published>
+    <updated>2021-04-09T02:06:51.191Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;tcp&quot;&gt;&lt;a href=&quot;#tcp&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/shu-ju-jie-gou/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/shu-ju-jie-gou/</id>
+    <published>2021-04-09T02:04:00.726Z</published>
+    <updated>2021-04-09T02:08:43.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;数据结构&quot;&gt;&lt;a href=&quot;#数据结构&quot; class=&quot;headerlink&quot; title=&quot;数据结构&quot;&gt;&lt;/a&gt;数据结构&lt;/h1&gt;&lt;h2 id=&quot;线性结构&quot;&gt;&lt;a href=&quot;#线性结构&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>手写Proimise</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/shou-xie-promise-zhong-ji-ban/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/shou-xie-promise-zhong-ji-ban/</id>
+    <published>2021-04-09T02:04:00.323Z</published>
+    <updated>2021-04-09T02:07:57.541Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;手写Promise中级版&lt;/p&gt;
+&lt;h4 id=&quot;搭建基本结构&quot;&gt;&lt;a href=&quot;#搭建基本结构&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mysql基本操作</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/mysql-ji-ben-cao-zuo/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/mysql-ji-ben-cao-zuo/</id>
+    <published>2021-04-09T01:59:37.933Z</published>
+    <updated>2021-04-09T02:01:28.663Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本课程只讲部分必要的增删改查操作，mysql操作数据库的语句和方法有较多，需要同学们自己做知识扩展。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>koa2快速入门</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/koa2-kuai-su-ru-men/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/koa2-kuai-su-ru-men/</id>
+    <published>2021-04-09T01:54:38.025Z</published>
+    <updated>2021-04-09T01:55:40.897Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本课程只适合学过 &lt;code&gt;nodeJs&lt;/code&gt; 的同学。&lt;/p&gt;
+&lt;h2 id=&quot;一、Koa2安装&quot;&gt;&lt;a</summary>
         
       
     
