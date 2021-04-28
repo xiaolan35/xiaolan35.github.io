@@ -6,7 +6,7 @@
   <link href="http://xiaolan35.github.io/atom.xml" rel="self"/>
   
   <link href="http://xiaolan35.github.io/"/>
-  <updated>2021-04-27T01:06:24.328Z</updated>
+  <updated>2021-04-28T00:40:29.777Z</updated>
   <id>http://xiaolan35.github.io/</id>
   
   <author>
@@ -17,28 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>数据结构--算法</title>
-    <link href="http://xiaolan35.github.io/2021/04/27/shu-ju-jie-gou-2-suan-fa-yi-ge-jue-ding-ni-cheng-xu-xiao-lu-gao-di-de-chong-yao-yin-su/"/>
-    <id>http://xiaolan35.github.io/2021/04/27/shu-ju-jie-gou-2-suan-fa-yi-ge-jue-ding-ni-cheng-xu-xiao-lu-gao-di-de-chong-yao-yin-su/</id>
-    <published>2021-04-27T01:06:16.477Z</published>
-    <updated>2021-04-27T01:06:24.328Z</updated>
+    <title>mysql基础</title>
+    <link href="http://xiaolan35.github.io/2021/04/28/mysql-ji-chu/"/>
+    <id>http://xiaolan35.github.io/2021/04/28/mysql-ji-chu/</id>
+    <published>2021-04-28T00:39:09.763Z</published>
+    <updated>2021-04-28T00:40:29.777Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;@&lt;a href=&quot;%E7%9B%AE%E5%BD%95&quot;&gt;TOC&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;eg</summary>
+    <summary type="html">&lt;p&gt;##本单元目标&lt;br&gt;    一、为什么要学习数据库&lt;br&gt;    二、数据库的相关概念&lt;br&gt;        DBMS、DB、SQL&lt;br&gt;    三、数据库存储数据的特点&lt;br&gt;    四、初始MySQL&lt;br&gt;        MySQL产品的介绍&lt;br&gt;      </summary>
         
       
     
     
     
-    <category term="数据结构" scheme="http://xiaolan35.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
-    
-    <category term="数据结构" scheme="http://xiaolan35.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="Mysql" scheme="http://xiaolan35.github.io/tags/Mysql/"/>
     
   </entry>
   
@@ -412,53 +409,6 @@
   </entry>
   
   <entry>
-    <title>阿里云短信验证码工具类</title>
-    <link href="http://xiaolan35.github.io/2021/04/09/a-li-yun-duan-xin-yan-zheng-ma-gong-ju-lei/"/>
-    <id>http://xiaolan35.github.io/2021/04/09/a-li-yun-duan-xin-yan-zheng-ma-gong-ju-lei/</id>
-    <published>2021-04-09T02:09:36.558Z</published>
-    <updated>2021-04-27T01:08:19.824Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h4 id=&quot;阿里云短信验证码工具类&quot;&gt;&lt;a href=&quot;#阿里云短信验证码工具类&quot; class=&quot;headerlink&quot; title=&quot;阿里云短信验证码工具类&quot;&gt;&lt;/a&gt;阿里云短信验证码工具类&lt;/h4&gt;&lt;pre class=&quot; language-java&quot;&gt;&lt;code</summary>
-        
-      
-    
-    
-    
-    
-    <category term="工具类" scheme="http://xiaolan35.github.io/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二分法思路</title>
-    <link href="http://xiaolan35.github.io/2021/04/09/er-fen-fa-si-lu/"/>
-    <id>http://xiaolan35.github.io/2021/04/09/er-fen-fa-si-lu/</id>
-    <published>2021-04-09T02:09:36.556Z</published>
-    <updated>2021-04-27T01:07:56.177Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;二分法思路&quot;&gt;&lt;a href=&quot;#二分法思路&quot; class=&quot;headerlink&quot; title=&quot;二分法思路&quot;&gt;&lt;/a&gt;二分法思路&lt;/h3&gt;&lt;p&gt;有一个无序不重复的装满数字的列表，例如：&lt;/p&gt;
-&lt;pre class=&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="二分法" scheme="http://xiaolan35.github.io/tags/%E4%BA%8C%E5%88%86%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>http协议</title>
     <link href="http://xiaolan35.github.io/2021/04/09/http-xie-yi/"/>
     <id>http://xiaolan35.github.io/2021/04/09/http-xie-yi/</id>
@@ -503,6 +453,54 @@
     
     
     <category term="数据结构" scheme="http://xiaolan35.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手写Proimise</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/shou-xie-promise-zhong-ji-ban/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/shou-xie-promise-zhong-ji-ban/</id>
+    <published>2021-04-09T02:04:00.323Z</published>
+    <updated>2021-04-09T02:30:15.246Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;手写Promise中级版&lt;/p&gt;
+&lt;h4 id=&quot;搭建基本结构&quot;&gt;&lt;a href=&quot;#搭建基本结构&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="数据结构" scheme="http://xiaolan35.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>koa2快速入门</title>
+    <link href="http://xiaolan35.github.io/2021/04/09/koa2-kuai-su-ru-men/"/>
+    <id>http://xiaolan35.github.io/2021/04/09/koa2-kuai-su-ru-men/</id>
+    <published>2021-04-09T01:54:38.025Z</published>
+    <updated>2021-04-09T02:28:34.885Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本课程只适合学过 &lt;code&gt;nodeJs&lt;/code&gt; 的同学。&lt;/p&gt;
+&lt;h2 id=&quot;一、Koa2安装&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Node.js" scheme="http://xiaolan35.github.io/tags/Node-js/"/>
     
   </entry>
   
